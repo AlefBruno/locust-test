@@ -1,0 +1,43 @@
+[2023-09-13 19:34:13,652] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-09-13 19:34:13,665] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-13 19:34:23,180] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-09-13 19:34:23,182] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 1} (1 total users)
+[2023-09-13 19:34:46,320] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-09-13 19:34:56,048] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-09-13 19:34:56,063] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-13 19:35:05,126] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-09-13 19:35:05,128] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 1} (1 total users)
+[2023-09-13 19:35:23,130] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-09-13 19:43:06,971] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-09-13 19:43:06,984] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-13 19:43:15,894] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-13 19:43:15,895] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-13 19:43:15,930] MacBook-Pro-de-Alef.local/CRITICAL/locust.runners: Unhandled exception in greenlet: <Greenlet at 0x1117118a0: <bound method Runner.shape_worker of <locust.runners.LocalRunner object at 0x11148a0d0>>>
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 908, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/runners.py", line 342, in shape_worker
+    current_tick = self.environment.shape_class.tick() if self.environment.shape_class is not None else None
+    ^^^^^^^^^^^^^^^^^
+  File "/Users/alefrodrigues/workspace/locust-test/usersLoad.scenarios.py", line 18, in tick
+    for stage in self.stages:
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'Stages' object has no attribute 'stages'
+[2023-09-13 19:43:41,964] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 2)
+[2023-09-13 19:43:45,947] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-09-13 19:43:45,963] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-13 19:43:53,261] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-13 19:43:53,262] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-13 19:43:53,263] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 30 users at 1.00 spawn rate
+[2023-09-13 19:43:53,263] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 30 users at a rate of 1.00 per second
+[2023-09-13 19:44:22,343] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 30} (30 total users)
+[2023-09-13 19:44:43,394] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test stopping
+[2023-09-13 19:45:50,080] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-09-13 19:46:20,341] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2023-09-13 19:46:20,363] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-13 19:46:25,795] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-13 19:46:25,796] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-13 19:46:25,796] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 30 users at 1.00 spawn rate
+[2023-09-13 19:46:25,797] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 30 users at a rate of 1.00 per second
+[2023-09-13 19:46:54,823] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 30} (30 total users)
+[2023-09-13 19:47:15,852] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test stopping
+[2023-09-13 19:48:50,370] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
