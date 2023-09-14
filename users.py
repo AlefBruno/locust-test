@@ -15,7 +15,7 @@ class UserRouteLoadTest(TaskSet):
         self.client.post("/usuarios", name="Criar Usuários",
                          json={
                             "nome": f"{name}",
-                            "email": f"{name.split()[0]}@qa.com.br",
+                            "email": f"{name.split(' ')[0]}@qa.com.br",
                             "password": "teste",
                             "administrador": "true"
                             }
