@@ -94,3 +94,968 @@ UnboundLocalError: cannot access local variable 'tick_data' where it is not asso
 [2023-09-14 11:16:22,475] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
 [2023-09-14 11:16:22,475] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
 [2023-09-14 11:16:22,475] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-09-14 13:02:11,992] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:02:11,994] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:02:11,994] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 30 users at 1.00 spawn rate
+[2023-09-14 13:02:11,994] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 30 users at a rate of 1.00 per second
+[2023-09-14 13:02:41,092] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 30} (30 total users)
+[2023-09-14 13:02:44,355] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:02:44,355] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:02:44,377] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:02:44,377] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:03:24,783] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:03:24,785] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:03:24,785] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:03:24,785] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:03:26,722] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:03:26,722] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:03:26,723] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:03:26,723] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:03:32,841] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:03:32,842] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:03:32,842] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:03:32,843] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:03:36,849] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:04:02,917] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test stopping
+[2023-09-14 13:04:02,918] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:04:02,919] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:04:02,919] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:04:21,917] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:04:21,919] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:04:21,919] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:04:21,919] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:04:25,926] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:04:28,012] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:04:28,012] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:04:28,013] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:04:28,014] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:05:28,610] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:05:28,612] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:05:28,612] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:05:28,613] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:05:32,621] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:05:32,690] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:05:32,691] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:05:32,692] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:05:32,692] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:05:46,624] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:05:46,625] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:05:46,625] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:05:46,625] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:05:47,001] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: 'Response' object has no attribute 'contente'
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 22, in post_created_user
+    print( {response.contente} )
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'Response' object has no attribute 'contente'
+
+[2023-09-14 13:05:47,981] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: 'Response' object has no attribute 'contente'
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 22, in post_created_user
+    print( {response.contente} )
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'Response' object has no attribute 'contente'
+
+[2023-09-14 13:05:48,977] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: 'Response' object has no attribute 'contente'
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 22, in post_created_user
+    print( {response.contente} )
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'Response' object has no attribute 'contente'
+
+[2023-09-14 13:05:49,871] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: 'Response' object has no attribute 'contente'
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 22, in post_created_user
+    print( {response.contente} )
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'Response' object has no attribute 'contente'
+
+[2023-09-14 13:05:49,979] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: 'Response' object has no attribute 'contente'
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 22, in post_created_user
+    print( {response.contente} )
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'Response' object has no attribute 'contente'
+
+[2023-09-14 13:05:50,637] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:05:50,819] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: 'Response' object has no attribute 'contente'
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 22, in post_created_user
+    print( {response.contente} )
+            ^^^^^^^^^^^^^^^^^
+AttributeError: 'Response' object has no attribute 'contente'
+
+[2023-09-14 13:05:54,975] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:05:54,976] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:05:54,987] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:05:54,987] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:06:02,296] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:06:02,297] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:06:02,298] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:06:02,298] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:06:06,309] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:06:08,521] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:06:08,521] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:06:08,523] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:06:08,523] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:09:39,604] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:09:39,610] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:09:39,610] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:09:39,610] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:09:39,617] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:40,613] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:41,613] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:42,262] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:42,615] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:42,777] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:43,301] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:43,615] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:09:43,617] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:44,530] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:45,111] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:45,486] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:45,545] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:46,305] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:46,435] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:48,130] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:48,670] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:49,001] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:49,382] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:50,922] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:51,015] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:52,095] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:52,827] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:52,828] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:54,122] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:54,361] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:54,498] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:54,562] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:55,254] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:55,404] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:56,430] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:56,479] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:56,631] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:56,777] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:09:57,231] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:09:57,231] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:09:57,232] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:09:57,232] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:10:04,416] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:10:04,417] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:10:04,417] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:10:04,417] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:10:04,419] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:05,420] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:06,421] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:07,423] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:07,686] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:08,422] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:10:08,423] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:08,761] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:09,703] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:10,336] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:11,253] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:11,261] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:12,644] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:13,581] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:14,199] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:14,792] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:15,044] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:15,697] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:16,037] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:16,582] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:17,333] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:18,126] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:18,283] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:19,497] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:19,915] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:20,808] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:20,861] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:20,965] MacBook-Pro-de-Alef.local/ERROR/locust.user.task: name 'faker' is not defined
+Traceback (most recent call last):
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 347, in run
+    self.execute_next_task()
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 372, in execute_next_task
+    self.execute_task(self._task_queue.pop(0))
+  File "/Users/alefrodrigues/Library/Caches/pypoetry/virtualenvs/locust-test-ns1MuPFs-py3.11/lib/python3.11/site-packages/locust/user/task.py", line 384, in execute_task
+    task(self)
+  File "/Users/alefrodrigues/workspace/locust-test/users.py", line 16, in post_created_user
+    "nome": faker.name(),
+            ^^^^^
+NameError: name 'faker' is not defined
+
+[2023-09-14 13:10:21,643] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:10:21,643] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:10:21,644] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:10:21,644] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 1)
+[2023-09-14 13:10:46,501] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:10:46,503] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:10:46,503] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:10:46,503] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:10:50,514] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:10:55,485] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:10:55,485] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:10:55,486] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:10:55,486] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-09-14 13:11:13,667] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:11:13,668] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:11:13,668] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:11:13,669] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:11:17,678] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:11:18,210] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:11:18,210] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:11:18,211] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:11:18,211] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)
+[2023-09-14 13:11:36,216] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test starting. User count and spawn rate are ignored for this type of load test
+[2023-09-14 13:11:36,217] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape worker starting
+[2023-09-14 13:11:36,218] MacBook-Pro-de-Alef.local/INFO/locust.runners: Shape test updating to 5 users at 1.00 spawn rate
+[2023-09-14 13:11:36,218] MacBook-Pro-de-Alef.local/INFO/locust.runners: Ramping to 5 users at a rate of 1.00 per second
+[2023-09-14 13:11:40,227] MacBook-Pro-de-Alef.local/INFO/locust.runners: All users spawned: {"LoadUsers": 5} (5 total users)
+[2023-09-14 13:11:47,799] MacBook-Pro-de-Alef.local/INFO/root: Exiting due to CTRL+C interruption
+[2023-09-14 13:11:47,799] MacBook-Pro-de-Alef.local/INFO/locust.main: --run-time limit reached, shutting down
+[2023-09-14 13:11:47,803] MacBook-Pro-de-Alef.local/INFO/locust.main: Starting Locust 2.16.1
+[2023-09-14 13:11:47,803] MacBook-Pro-de-Alef.local/INFO/locust.main: Shutting down (exit code 0)

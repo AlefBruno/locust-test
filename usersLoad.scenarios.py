@@ -8,8 +8,8 @@ class LoadUsers(HttpUser):
 
 class Stages(LoadTestShape):
     stages=[
-        {"duration": 30, "users": 30,"spawn_rate": 1,},
-        {"duration": 50, "users": 30,"spawn_rate": 1,},
+        {"duration": 15, "users": 5,"spawn_rate": 1,},
+        {"duration": 30, "users": 5,"spawn_rate": 1,},
     ]
 
     def tick(self):

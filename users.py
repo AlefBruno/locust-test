@@ -1,8 +1,9 @@
-from locust import TaskSet, task
+from locust import TaskSet, task, between
 from faker import Faker
 
 class UserRouteLoadTest(TaskSet):
-    faker = Faker()
+    faker = Faker("pt_br")
+    wait_time = between(1, 5)
 
     @task
     def get_list_users(self):
@@ -10,12 +11,12 @@ class UserRouteLoadTest(TaskSet):
 
     @task
     def post_created_user(self):
-        name = self.faker.name()
-        self.client.post("/usuarios", name="Criar Usuários",
+        response = self.client.post("/usuarios", name="Criar Usuários",
                          json={
-                            "nome": f"{name}",
-                            "email": f"{name.split()[0]}@qa.com.br",
+                            "nome": self.faker.name(),
+                            "email": self.faker.email(),
                             "password": "teste",
                             "administrador": "true"
                             }
                         )
+        # print( response.content )
