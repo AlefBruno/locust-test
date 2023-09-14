@@ -1,8 +1,9 @@
-from locust import TaskSet, task
+from locust import TaskSet, task, between
 from faker import Faker
 
 class UserRouteLoadTest(TaskSet):
     faker = Faker()
+    wait_time = between(1, 5)
 
     @task
     def get_list_users(self):
