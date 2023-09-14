@@ -22,3 +22,5 @@ class Stages(LoadTestShape):
                 except:
                     tick_data = (stage["users"], stage["spawn_rate"])
                 return tick_data
+            
+        return None

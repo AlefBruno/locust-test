@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 locust = "^2.16.1"
+faker = "^19.6.1"
 
 
 [build-system]
